@@ -1,1 +1,1 @@
-Explain what git clone does, is in your own words.
+Git clone - clones the history of a Git repository into a local working directory where it can thereby be looked at and modified. The process creates remote-tracking branches for each branch in the cloned repository.
