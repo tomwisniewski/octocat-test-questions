@@ -1,1 +1,1 @@
-Explain what upstream remote is usually used for, in your own words.
+An upstream remote is used in conjunction with a forked repository. It allows for changes that are made in the forked repository to be fetched into the local repository whereby these changes can be merged with the existing copy of said forked respository.
