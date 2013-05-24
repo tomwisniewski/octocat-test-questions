@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words.
+When working in a respository your initial branch is the master branch. You can create numerous different branches off the master branch, which give a copy of everything contained in the master branch, which can then be modified without fear of messing up the work on the master branch. Once happy with any changes made to the seperate branch(es), they can then be merged back into the master branch
